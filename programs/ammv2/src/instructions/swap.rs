@@ -147,4 +147,3 @@ pub struct SwapTokens<'info> {
     /// Token program
     pub token_program: Interface<'info, TokenInterface>,
 }
-
